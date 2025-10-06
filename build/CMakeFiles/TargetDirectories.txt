@@ -1,3 +1,0 @@
-/Users/sheband/C++_Test/build/CMakeFiles/mainex.dir
-/Users/sheband/C++_Test/build/CMakeFiles/edit_cache.dir
-/Users/sheband/C++_Test/build/CMakeFiles/rebuild_cache.dir
