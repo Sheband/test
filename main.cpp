@@ -8,4 +8,6 @@ int main(){
 int piskun = 3456;
 int pidh = 45;
 int ueba = 4545;
+    int dskgkdfgk = 34534;
+    dfgdfg 
 }
