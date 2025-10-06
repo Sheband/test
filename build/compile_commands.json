@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/sheband/C++_Test/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -o CMakeFiles/mainex.dir/main.cpp.o -c /Users/sheband/C++_Test/main.cpp",
+  "file": "/Users/sheband/C++_Test/main.cpp",
+  "output": "CMakeFiles/mainex.dir/main.cpp.o"
+}
+]
