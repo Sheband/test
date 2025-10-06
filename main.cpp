@@ -29,6 +29,8 @@ void swap(int* a, int* b) {
     *b = t;
 }
 
+int xyi = 1234567;
+
 int partition(int arr[], int low, int high) {
     int pivot = arr[high];
     int i = (low - 1);
